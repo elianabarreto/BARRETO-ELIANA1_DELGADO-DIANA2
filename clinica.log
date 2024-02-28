@@ -1,0 +1,48 @@
+[2024-02-27 22:22:42] [ INFO ] [OdontologoDAOH2:18] Estamos persistiendo un odontologo
+[2024-02-27 22:22:43] [ INFO ] [OdontologoDAOH2:18] Estamos persistiendo un odontologo
+[2024-02-27 22:22:43] [ INFO ] [OdontologoDAOH2:18] Estamos persistiendo un odontologo
+[2024-02-27 22:43:05] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:43:05] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:43:05] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:44:33] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:44:33] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:44:33] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:45:36] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:45:36] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:45:36] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:55:04] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:55:04] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:55:04] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:55:04] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 22:55:04] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@13c9d689, entidades.Odontologo@3754a4bf, entidades.Odontologo@62379589]
+[2024-02-27 22:56:53] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:56:53] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:56:53] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:56:53] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 22:56:53] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@51399530, entidades.Odontologo@6b2ea799, entidades.Odontologo@411f53a0]
+[2024-02-27 22:58:34] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:58:35] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:58:35] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 22:58:35] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 22:58:35] [ INFO ] [OdontologoDAOH2:94] Esta es la lista que se está devolviendo [entidades.Odontologo@30c15d8b, entidades.Odontologo@5e0e82ae, entidades.Odontologo@6771beb3]
+[2024-02-27 23:31:20] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 23:31:21] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@21d03963, entidades.Odontologo@1f760b47, entidades.Odontologo@18ece7f4]
+[2024-02-27 23:40:28] [ INFO ] [OdontologoDAOEnMemoria:21] Se guardo el siguiente odontologo: entidades.Odontologo@478190fc
+[2024-02-27 23:40:28] [ INFO ] [OdontologoDAOEnMemoria:21] Se guardo el siguiente odontologo: entidades.Odontologo@223d2c72
+[2024-02-27 23:40:28] [ INFO ] [OdontologoDAOEnMemoria:21] Se guardo el siguiente odontologo: entidades.Odontologo@8f4ea7c
+[2024-02-27 23:40:28] [ INFO ] [OdontologoDAOEnMemoria:28] Esta es la lista de odontologos en memoria: [entidades.Odontologo@478190fc, entidades.Odontologo@223d2c72, entidades.Odontologo@8f4ea7c]
+[2024-02-27 23:42:25] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 23:42:27] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo []
+[2024-02-27 23:43:23] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 23:43:23] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 23:43:23] [ INFO ] [OdontologoDAOH2:17] Estamos persistiendo un odontologo
+[2024-02-27 23:43:24] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 23:43:24] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@3c41ed1d, entidades.Odontologo@54d9d12d, entidades.Odontologo@38425407]
+[2024-02-27 23:43:57] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 23:43:58] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@363042d7, entidades.Odontologo@366ac49b, entidades.Odontologo@6ad59d92]
+[2024-02-27 23:44:32] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 23:44:33] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@47c81abf, entidades.Odontologo@776a6d9b, entidades.Odontologo@21d03963]
+[2024-02-27 23:45:27] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 23:45:28] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@35b74c5c, entidades.Odontologo@2e570ded, entidades.Odontologo@b86de0d]
+[2024-02-27 23:45:57] [ INFO ] [OdontologoDAOH2:48] Estamos listando odontologos
+[2024-02-27 23:45:58] [ INFO ] [OdontologoDAOH2:90] Esta es la lista que se está devolviendo [entidades.Odontologo@21d03963, entidades.Odontologo@1f760b47, entidades.Odontologo@18ece7f4]
